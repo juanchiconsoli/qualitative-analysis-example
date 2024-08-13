@@ -1,0 +1,7 @@
+codebook: codebook.yaml
+corpus_dir: corpus
+database: qualitative_coding.sqlite3
+editor: code
+logs_dir: logs
+memos_dir: memos
+qc_version: 1.3.2
